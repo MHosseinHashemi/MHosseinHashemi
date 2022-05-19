@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MHosseinHashemi
 - 👀 I like Data :))
-- 🌱 I’m currently learning about Computer Vision  
+- 🌱 I’m currently learning about Computer Vision and CNN's
 - 📫 Reach me on Kaggle "https://www.kaggle.com/mohammadhossein77" 
