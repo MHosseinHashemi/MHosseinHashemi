@@ -1,12 +1,14 @@
-bio = "Just a geek, Looking to impacting the medical field"
+```
+bio = "Just a geek, looking to impact the medical field"  
+kaggle_url = "mohammadhossein77"  
+linkedin_url = "mohammad-h-hashemi"  
 
-kaggle_url = "https://www.kaggle.com/mohammadhossein77"
-linkedin_url = "https://www.linkedin.com/in/mohammad-h-hashemi/"
+def red():  
+    print(bio)  
+    print("You can find me on Kaggle or LinkedIn.")  
+    print("Let's connect and explore the endless possibilities of technology!")  
+  
+greet()  
+```  
 
 
-def greet():
-    print(bio)
-    print("You can find me on Kaggle or Linkedin)
-    print("Let's connect and explore the endless possibilities of technology!")
-    
-greet()
