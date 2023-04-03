@@ -1,5 +1,5 @@
 ```
-bio = "Just a geek, looking to impact the medical field"  
+bio = "Just a geek, looking to impacting the medical field"  
 kaggle_url = "mohammadhossein77"  
 linkedin_url = "mohammad-h-hashemi"  
 
