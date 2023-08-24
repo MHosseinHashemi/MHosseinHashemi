@@ -1,5 +1,5 @@
 ```
-bio = "Just a geek, looking to impacting the medical field"  
+bio = "Just a geek, who Loves to mingle the possibilities and eager to find efficient solutions for meaningful challenges."  
 kaggle = "mohammadhossein77"  
 linkedin = "mohammad-h-hashemi"  
 
