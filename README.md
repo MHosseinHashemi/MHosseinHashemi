@@ -1,7 +1,5 @@
 ```
-While True:  
-    print("Hello, World!")  
-  
+"Hello, World!" 
 ```  
 
 
