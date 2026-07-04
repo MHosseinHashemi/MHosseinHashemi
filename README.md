@@ -1,30 +1,53 @@
 # I am
-focused on applying ML/DL to practical problems in **computer vision**, NLP, and time-series analysis. This includes building, training, and evaluating models using modern deep learning frameworks, following structured methodologies such as CRISP-DM.
+driven by the challenge of designing AI systems for real-world problems—whether in **computer vision**, **NLP**, or **TSF**. My work covers the full lifecycle: building, training, and evaluating models with modern frameworks, all while practising CRISP-DM like methodologies. 
 
-Alongside this, my research exposure varies across topics, with stronger depth in **knowledge distillation** and **computer vision**, a solid understanding of **causality**, and early exploration in areas such as **machine unlearning** and **federated learning**. 
+Research-wise, I am exposed to various topics. Currently focused on **Knowledge Distillation** and **Symbolic Reasoning**, I do read articles on **computer vision**, **machine unlearning** and **federated learning**. I am especially interested to apply AI in healthcare and medicine.
 
 > _I remain open to both industry-focused AI/ML roles and also academic R&D roles._
 > 
 > _Gmail: 1mohammad0hossein1@gmail.com_
 
 
+<br></br>
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+### _Data Preprocessing & Analysis:_
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+> _I rely on these tools primarily for data cleaning, EDA, and feature engineering—transforming raw data into clear, actionable insights and preparing it for seamless integration into ML/DL pipelines._
 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+### _ML/DL frameworks:_
 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![HugginFace Transformers](https://img.shields.io/badge/HugginFace_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Faiss](https://img.shields.io/badge/Faiss-4F46E5?style=flat-square&logo=meta&logoColor=white)
+![Google STT & TTS](https://img.shields.io/badge/Google_STT%26TTS-EC4899?style=flat-square&logo=google&logoColor=white)
+![DeepSeek API](https://img.shields.io/badge/DeepSeek_API-F59E0B?style=flat-square&logo=deepseek&logoColor=black)
+
+> _Started with TF&Keras but now I am mostly using Torch to design, train and evaluate ML/DL frameworks._
+
+### _Computer Vision & Image Processing:_
+
+![PIL](https://img.shields.io/badge/PIL-0B5C3E?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00B4D8?style=flat-square&logo=ultralytics&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-7B2FBE?style=flat-square&logo=roboflow&logoColor=white)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-00B894?style=flat-square&logo=google&logoColor=white)
+
+> _These libraries form the backbone of my computer vision workflows. I use them extensively to fine-tune SOTA models—such as YOLO varients for object detection and Mediapipe for pose estimation—on custom datasets._
+
+### _Other Relevant Techs:_
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-F05082?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-F05212?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-F07082?style=flat-square&logo=redis&logoColor=white)
