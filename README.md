@@ -7,7 +7,9 @@ Research-wise, I am exposed to various topics. Currently persuing my M.Sc. with 
 > 
 > _1mohammad0hossein1@gmail.com_
 > 
-> _[Scholar](https://scholar.google.com/citations?user=h5nZ-B0AAAAJ&hl=en&oi=ao)_    _[Kaggle](http://www.kaggle.com/mohammadhossein77)_
+> _[Scholar](https://scholar.google.com/citations?user=h5nZ-B0AAAAJ&hl=en&oi=ao)_
+>
+> _[Kaggle](http://www.kaggle.com/mohammadhossein77)_
 
 
 <br></br>
