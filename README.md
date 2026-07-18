@@ -1,9 +1,9 @@
 # I am
 driven by the challenge of designing AI systems for real-world problems—whether in **computer vision**, **NLP**, or **TSF**. My work covers the full lifecycle: building, training, and evaluating models with modern frameworks, all while practising CRISP-DM like methodologies. 
 
-Research-wise, I am exposed to various topics. Currently pursuing my M.Sc. with focus on
+Research-wise, Currently I am pursuing my M.Sc. with focus on
 `Knowledge Distillation` and `Symbolic Reasoning`.
-I also read about **Computer Vision**, **Machine Unlearning**, and **Federated Learning**.
+Beside that I've been exposed to articles on **Computer Vision**, **Machine Unlearning**, **Federated Learning** and **QML**.
 
 > _I remain open to both industry-focused AI/ML roles and also academic R&D roles._
 > 
